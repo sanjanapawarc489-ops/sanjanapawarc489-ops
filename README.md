@@ -2,83 +2,67 @@
 <h3 align="center">Aspiring Software Developer | Java Developer | AI & Machine Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Learner;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Graduate
-
-💻 Passionate about Software Development, Artificial Intelligence, and Web Development
-
-🌱 Currently learning **Spring Boot, React, Machine Learning, and Cloud Technologies**
-
-🚀 Interested in Full Stack Development, AI, and Cybersecurity
-
-📧 **Email:** sanjanapawarc489@gmail.com
-
-🔗 **LinkedIn:** https://www.linkedin.com/in/sanjana-pawar-a3b105383
+- 🎓 Computer Science Graduate
+- 💻 Passionate about Software Development, Artificial Intelligence, and Web Development
+- 🌱 Currently learning **Spring Boot, React, Machine Learning, and Cloud Technologies**
+- 🚀 Interested in Full Stack Development, AI, Machine Learning, and Cybersecurity
+- 📫 **Email:** **sanjanapawarc489@gmail.com**
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/sanjana-pawar-a3b105383
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### 💻 Languages
-- Java
-- Python
-- JavaScript
-- SQL
-- HTML5
-- CSS3
+### 💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
+</p>
 
-### ⚙️ Frameworks & Libraries
-- React
-- Bootstrap
-- Spring Boot (Learning)
-
-### 🗄️ Database
-- MySQL
-
-### 🛠️ Tools
-- Git
-- GitHub
-- VS Code
-- Eclipse
-- IntelliJ IDEA
-- Postman
+### ⚙️ Frameworks & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=react,spring,bootstrap,git,github,vscode,eclipse,idea,postman" />
+</p>
 
 ---
 
-## 📂 Featured Projects
+## 🚀 Featured Projects
 
 ### 📄 AI Resume Builder
-Developed an ATS-friendly Resume Builder with real-time preview, ATS score analysis, and multiple professional templates.
+Developed an ATS-friendly Resume Builder with real-time resume preview, ATS score analysis, and multiple professional templates.
 
 **Tech Stack:** React, JavaScript, HTML, CSS
 
 ---
 
 ### 🎯 Placement Readiness Application
-A web application that helps students prepare for placements through resume management, aptitude preparation, interview practice, and progress tracking.
+A web application that helps students prepare for placements through aptitude preparation, resume management, interview practice, and progress tracking.
 
 **Tech Stack:** React, JavaScript, HTML, CSS
 
 ---
 
 ### 🏥 Liver Cirrhosis Prediction Using Machine Learning
-Built a Machine Learning model to predict liver cirrhosis using patient medical data for early disease detection.
+Developed a Machine Learning model to predict liver cirrhosis using patient medical data for early diagnosis.
 
 **Tech Stack:** Python, Pandas, NumPy, Scikit-learn
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sanjanapawarc489-ops&show_icons=true&theme=tokyonight"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanapawarc489-ops&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sanjanapawarc489-ops&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjanapawarc489-ops&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
 </p>
 
 ---
@@ -86,7 +70,23 @@ Built a Machine Learning model to predict liver cirrhosis using patient medical 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sanjanapawarc489-ops&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sanjanapawarc489-ops&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjanapawarc489-ops&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sanjanapawarc489-ops&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -95,7 +95,7 @@ Built a Machine Learning model to predict liver cirrhosis using patient medical 
 
 <p align="left">
 <a href="mailto:sanjanapawarc489@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sanjana-pawar-a3b105383">
@@ -109,11 +109,36 @@ Built a Machine Learning model to predict liver cirrhosis using patient medical 
 
 ---
 
-## 💡 Quote
+## 💡 Currently Learning
 
-> *"Code. Learn. Build. Repeat."* 🚀
+- 🌱 Spring Boot
+- ⚛️ React.js
+- ☁️ Cloud Computing
+- 🤖 Machine Learning
+- 🔒 Cybersecurity
 
 ---
 
-⭐ **Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.**
-⭐ Thanks for visiting my profile!
+## 📌 Goals for 2026
+
+- ✅ Build Full Stack Projects
+- ✅ Master Spring Boot
+- ✅ Improve DSA & Problem Solving
+- ✅ Contribute to Open Source
+- ✅ Earn Cloud & AI Certifications
+
+---
+
+## ✨ Fun Fact
+
+> *"The best way to predict the future is to create it."* 🚀
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanjanapawarc489-ops&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<h3 align="center">
+⭐ Thanks for visiting my GitHub Profile! ⭐
+</h3>
